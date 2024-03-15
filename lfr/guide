@@ -1,1 +1,398 @@
-placeholder
+Roles:
+Melee DPS (mdps)
+General
+Mage gear beyond a 2 way is minor on DPS roles - it should be banked for more important switches / supplies.
+In the learner setup, bank the mage void helm and the ma2 cape.
+One of these slots should be used for a book of the dead for thralls.
+Maiden
+DPSes the boss (does not freeze) and kills individual crabs.
+DPS roles should tank the boss by staying in melee range (even if ranging) until after 30s have been frozen.
+The DPS have more than enough health to survive until then.
+Nylocas
+Kills gray nylos (Nylocas ischyros).
+If there are no gray nylos, swap to another style and kill those nylos until more grays spawn.
+Ranged DPS (rdps)
+General
+Mage gear beyond a 2 way is minor on DPS roles - it should be banked for more important switches / supplies.
+In the learner setup, bank the mage void helm and the ma2 cape.
+One of these slots should be used for a book of the dead for thralls.
+Maiden
+DPSes the boss (does not freeze) and kills individual crabs.
+DPS roles should tank the boss by staying in melee range (even if ranging) until after 30s have been frozen.
+The DPS have more than enough health to survive until then.
+
+COMMON MISCONCEPTION: The rdps should NOT chin the clump at maiden unless the team is stacking 70s and 50s - barrage is better dps otherwise.
+
+Nylocas
+Kills green nylos (Nylocas toxobolos).
+If there are no green nylos, swap to another style and kill those nylos until more greens spawn.
+Melee Freeze (mfrz)
+Also known as "north freeze" (nfrz) due to the (now arbitrary) tradition of freezing the northern set of crabs at maiden.
+Maiden
+Freezes reds and either barrages the clump or kills single crabs as needed.
+Freezers should not tank maiden until after they have frozen 30s.
+The DPS have more than enough health to survive until then.
+LFR teams generally assume mfrz will freeze N123 (covered in <maiden link>), but they can freeze on either side if agreed upon.
+Freezers should always range maiden, regardless of gear, as it prevents them from getting drained and gives more leeway to swap to mage gear.
+Nylocas
+Kills gray nylos (Nylocas ischyros).
+If there are no gray nylos, swap to another style and kill those nylos until more grays spawn.
+Mage
+Also known as "south freeze" (sfrz) due to the (now arbitrary) tradition of freezing the southern set of crabs at maiden.
+Maiden
+Freezes reds and either barrages the clump or kills single crabs as needed.
+Freezers should not tank maiden until after they have frozen 30s.
+The DPS have more than enough health to survive until then.
+LFR teams generally assume mage will freeze S124 (covered in <maiden link>), but they can freeze on either side if agreed upon.
+Freezers should always range maiden, regardless of gear, as it prevents them from getting drained and gives more leeway to swap to mage gear.
+
+COMMON MISCONCEPTION: The mage should NEVER 'tank' maiden by blood barraging the clump. This is an out of date strategy and causes more problems than it solves. In addition, ice barrage is significantly higher dps on the clump.
+
+Nylocas
+Kills blue nylos (Nylocas hagios).
+If there are no blue nylos, swap to another style and kill those nylos until more blues spawn.
+Spellbooks
+Freeze Roles (mage + mfrz)
+Always bring ancients with ice barrage (blood death water).
+With a divine rune pouch, add souls for blood barrage.
+DPS Roles (rdps + mdps)
+Bring arceuus with thralls (blood cosmic fire) OR lunars with vengeance and pot share (astral death mud)
+Thralls are slightly better overall and much easier to use - recommended while learning.
+Melee Thrall: P1 Verzik and Nylo King
+Nylo: Summon the thrall that matches your style (meleers should summon a mage thrall)
+Use a mage thrall everywhere else.
+Vengeance is also quite good, but requires intentionally taking damage to take advantage of it, so less recommended while learning.
+It can be nice to have one of the DPS run lunars to potshare stamina and range pot at nylo and stamina at p3 webs, but this is optional and doesn't work for ironmen.
+Some LFR players expect rdps to bring potshare - communicate with your team before entering the raid!
+Team Sizes
+5-Man
+2x mage, rdps, 2x mdps
+4-Man
+mage, mfrz, rdps, mdps
+3-Man
+mage, mfrz, rdps
+Can also do mage, rdps, mdps if the mage is experienced and knows how to solo freeze at maiden.
+
+It is not recommended to do team sizes below 3 while learning - unlike entry mode, normal mode does not scale down below 3 players. 
+
+Maiden
+The Fight
+Maiden attacks every 10 ticks, and can drain the stats of the player she targets.
+Protect from Magic reduces this damage, and all players should keep it on for the whole fight.
+Maiden prioritizes closer targets over farther ones - players can abuse this to ensure certain players "tank" the boss.
+Instead of her standard attack, Maiden will sometimes throw blood at all players.
+Standing in this blood:
+Damages the player's HP and prayer
+Heals the boss
+Causes more blood spawns to spawn
+If a player is in melee range, they must predict Maiden's attack to dodge blood 100% of the time.
+After blood disappears, blood spawns may appear which cover the floor they move over with additional blood.
+Avoid the blood trail but otherwise ignore them.
+If too many spawn, mages can freeze them and kill them with their trident.
+At 70%, 50%, and 30% health, Maiden will spawn healers (Nylocas matomenos) which will attempt to reach the boss and heal her.
+If a crab reaches Maiden, it will heal her and power up her attacks.
+These crabs should be frozen and killed before they reach the boss to prevent this.
+General Notes
+Protect from magic should be active the entire fight.
+Keep prayer high in case it gets drained by blood spawns.
+Boss DPS Ranking: Scythe (strength gear) = Twisted Bow > Blowpipe (dragon darts) > Scythe (void) > Blowpipe (rune darts)
+Crab DPS Ranking: Scythe >= Blowpipe
+After 2 hammers have landed, BGS is better - getting the boss to 0 defense is the most important part of the fight.
+Any remaining spec energy should be spent on clawing the boss or challying to finish the fight.
+DPS Roles (mdps, rdps)
+Stay in melee range of the boss until after 30s have spawned or you are too low to survive. This ensures that the freezers never take aggro and have their mage levels drained.
+Split up to cover S1, N1, and N2, and kill them while the freezers barrage the clump.
+
+COMMON MISCONCEPTION: The rdps should NOT chin the clump at maiden unless the team is stacking 70s and 50s - barrage is better dps otherwise.
+
+Freeze Roles (mage, mfrz)
+Stay at a distance and attack the boss with ranged, regardless of your gear, until after 30s have been frozen.
+This is to ensure that you never take aggro and have your mage level drained, which can cause you to miss freezes.
+Slightly before 70s, 50s, and 30s proc, stop damaging the boss, switch into your mage gear, and get ready to freeze.
+Once the crabs are frozen, barrage the clump until the crabs are dead, then switch to your blowpipe and finish off stragglers before switching back to the boss.
+After 30s are dealt with, run into melee distance and tank the boss to take pressure off of your DPS.
+Freeze Method
+Standard LFR freeze practice has two roles: N123 and S124.
+It is generally assumed that mfrz will do N123 and mage will do S124, although this can be swapped freely with communication.
+In 5s, the two mages should communicate and decide who is taking which side.
+N123
+Hover your cursor over where N1 will spawn, and immediately freeze it when it spawns.
+Continue to freeze N2 and N3 on cooldown.
+Done correctly, this will clump N3 with S3, and leave N1 and N2 outside the clump.
+S124
+Hover your cursor over where S1 will spawn, and immediately freeze it when it spawns.
+Do not freeze S2 on cooldown! Instead, wait a bit so that you freeze it into the clump.
+Wait for S4/N4 to be near the clump, then freeze them. There is a 2 tick window to do this.
+Done correctly, this will clump S2 and S4/N4, and leave S1 outside the clump.
+
+TODO: GIF / Video
+
+Alternative Freeze Method: 13-24
+Mostly done in mentor raids and with completely new players.
+Requires four freezers, often recruiting DPS roles to freeze.
+For instance, the rdps could swap to ancients and bring mage gear to freeze at Maiden, while still ranging at nylo.
+Four roles: N13 N24 S13 S24 - each role instantly freezes their crabs in order. For instance, S24 would instantly freeze S2, and then freeze S4 on cooldown.
+After freezing, all players kill their assigned crabs.
+Less error prone, but suboptimal because of not clumping crabs and requiring more players on ancients. Players should move to more advanced freezing methods as soon as possible.
+
+TODO: GIF / Video 
+
+Bloat
+The Fight
+Bloat will move in a circle around the tank in the center of the room.
+Occasionally and without warning, Bloat will turn around and start walking the other direction.
+Bloat begins the fight by walking, but may run (2x speed) as it gets lower on health.
+While moving, Bloat will attack players in its line of sight with flies.
+These flies will additionally "bounce" to players within line of sight of the primary target, causing damage to quickly get out of control.
+Protect from Missiles reduces the damage from these flies, and all players should keep it on for the whole fight.
+At lower HP and while moving, Bloat will drop mutilated flesh (also known as "hands") which damages and stuns any players that stand in it.
+After moving for a while, Bloat will power down, allowing players to attack it for a brief period.
+Bloat won't power down until at least one player has entered the encounter.
+When Bloat gets up again, it will attack all players in its line of sight with a powerful stomp attack, before beginning to move again.
+When Bloat is about to get up again, the lights on its body will begin to flicker.
+General Notes
+DPS Ranking: Scythe > Abyssal Tentacle
+Bloat is undead and is eligible for the damage bonus of the salve amulet. All players should wear a salve amulet (e) while attacking Bloat.
+Bloat regenerates to full defence when he does his stomp attack, so defence lowering specs should be used sparingly.
+Specifically, one or two players can choose to BGS (never DWH) Bloat as their first hit of a down.
+This should only be done in larger team sizes (4s and 5s) and only if the team has scythes and is getting close to the maximum amount of hits.
+Otherwise, using DPS specs only is better.
+If players have a crystal halberd, they should use it as the last hit on Bloat before he gets up, to get the full value out of its long attack timer.
+If players only have claws, they can claw whenever they wish.
+Strategy
+Protect from missiles should be active the entire fight.
+Players should enter the room when Bloat is on the opposite side of the tank, so that they do not instantly get flied.
+Only one player needs to enter - the others can wait outside until Bloat goes down.
+When Bloat goes down, any players remaining outside should enter, and all players should attack bloat.
+Players should attack bloat from the side that is closer to a corner of the tank, so they can break line of sight quickly.
+When bloat is about to stand up again, run to the other side of the tank.
+Watch for Bloat's lights to flicker for a good estimation of when to leave.
+A safe benchmark to aim for is 5 whips + finisher or 4 scythes + finisher, but it may be less if you arrive late.
+"Finisher" above refers to the crystal halberd spec (if you have it) or just another attack.
+When running around the tank, keep an eye on Bloat and stay on the opposite side of him.
+Prepare to turn around in case Bloat does - this can be hard to notice and requires quick reaction time.
+Additionally, keep an eye out for falling hands and ensure you do not get hit by them, as they can mean quick death.
+After Bloat dies, make sure you top up on supplies from the supply chest near the exit.
+Nylocas
+Waves
+Nylos will spawn in waves from the three walkways. Upon entering the room, they will start one of two behaviors:
+Normal - These nylos will go towards a pillar and start to damage it.
+“Aggro” - These nylos will ignore the pillars and attack players.
+If a pillar reaches zero hitpoints, it will “fall”, dealing large damage to the team.
+In addition, all nylos on that pillar will turn into aggros and start to attack players.
+This can quickly lead to deaths, and should be avoided at all costs.
+If all four pillars fall, all players will instantly die, causing a wipe.
+When a nylo has been in the room for long enough, it will explode, dying and causing damage to nearby players.
+There are three colors of nylos, which can be “big” or “small”:
+Nylocas ischyros (AKA “grays”): Attack with melee and must be attacked with melee.
+Nylocas toxobolos (AKA “greens”): Attack with ranged and must be attacked with melee.
+Nylocas hagios (AKA “blues”): Attack with magic and must be attacked with magic.
+Note that this logic does not follow the combat triangle! nylos must be attacked with the same style they use!
+If a player attacks a nylo with the wrong style, it will “null”:
+No damage will be done.
+The player will no longer be able to damage the nylo, even if they switch to the correct style.
+Praying correctly against aggros will reduce damage taken, although they can still hit through prayer.
+Nylos will sometimes change color:
+Certain nylos change color (“flash”) on the ramp.
+Certain nylos change color after about 15s inside the room.
+When a big nylo is killed (or explodes), it will split into two random small nylos.
+Every nylo that spawns during the waves is consistent - the pattern will be the same every single ToB you do!
+Players should take advantage of this by memorizing the pattern as much as possible.
+Waves Strategy
+Keep your hitpoints high - you can be comboed very quickly by exploding nylos and falling pillars.
+Players should try to use defensive prayers against the aggros currently in the room.
+Players should always pray their respective offensive prayer - piety for melees, rigour for rangers, and augury for mages.
+This has a significant impact on the consistency in killing nylos. Keep your prayer up!
+Players should split up into roles to efficiently kill nylos.
+If there are no nylos alive that match your role, switch gear and kill other nylos until more spawn. Avoiding downtime drastically increases your chances of success.
+Mage - the mage role mages at waves, focusing on killing blues.
+Mostly use your trident to kill individual blues.
+If two or more blues are in the same area, kill them with ice barrage.
+If you are getting low, blood barrage can be used to regain some health.
+In 5s, there are two mages - communicate and have one focus east and one focus west.
+Range - the rdps role ranges at waves, focusing on killing greens.
+Mostly use your blowpipe to kill individual greens.
+If you have a Twisted bow, it can be used to kill big greens as they enter the room.
+If you have chins and two or more greens are in the same area, kill them with chins.
+Melee - the mdps and mfrz roles melee at waves, focusing on killing grays.
+Mostly use your fastest melee weapon to kill individual grays.
+Swift blade = Ham joint > Abyssal tentacle
+If you have a scythe, it should be used to kill big grays.
+If you have a scythe and two or more grays are next to each other, kill them with a scythe swing.
+This can be tricky to pull off, and is mostly useful on grays side-by-side on the pillar and as they enter.
+Try to flinch back and forth when killing nylos on the pillars - staying in melee distance will cause you to take a lot of damage from explosions.
+In 4s and 5s, there are two melees - communicate and have one focus east and one focus west.
+In 4s, the mfrz goes east and mdps goes west.
+* Unlike freezing north/south, there is a good reason for this, and it becomes relevant as you improve.
+The Boss
+After the waves have finished, there is a brief pause before Nylocas vasilias spawns in the center of the room.
+The boss switches between three different colors, the same colors as the nylos from the waves.
+The boss always starts in its melee form.
+The boss cannot stay the same color two cycles in a row.
+The chance of each color is exactly equal - it is a 50/50 between the two colors it is currently not.
+Similarly to the waves, the boss attacks with the style corresponding to its color, and must be attacked with the appropriate style to deal damage.
+If the boss is attacked with the wrong style, the boss will reflect the damage back onto the player.
+Unlike the nylos from the waves, the player cannot “null” on the boss.
+Boss Notes
+DPS Ranking:
+Twisted bow = Blowpipe (dragon darts) > Blowpipe (rune darts)
+Scythe of vitur > Abyssal tentacle
+The boss can have its defence reduced when in its melee form.
+Have one or two players BGS the boss as it spawns.
+Similarly to Bloat, never use DWH.
+Spend the rest of your spec energy on claws/chally.
+Boss Strategy
+Start the boss in your melee gear, use specs if you need, and get ready to switch immediately.
+Every time the boss changes color, follow this set of instructions:
+Change defensive prayer (ABSOLUTE #1 PRIORITY!)
+Equip weapon
+Attack boss
+Turn on offensive prayer
+Equip rest of gear
+Every phase lasts 10 ticks or 6 seconds - prepare yourself before the boss switches colors.
+To change your defensive prayer quickly, you should have your prayer window open and your mouse over it in preparation.
+This boss is all about having fast reaction time and not making mistakes - falling behind and panicking is the most common cause of death.
+If you do fall behind, stay calm, keep praying defensively, and catch your breath. It’s better to miss a few hits than die.
+
+Sotetseg
+The Fight
+The Boss
+Sotetseg’s primary attack style involves shooting an orb at a player.
+If the player is in melee distance, Sotetseg may instead simply melee the player.
+There are two types of orbs: red (mage) and black (range).
+Praying the correct protection prayer causes these orbs to be harmless.
+If a player is not praying against the orb when it hits them, it will do a large amount of damage and prevent them from using overheads for a brief period of time.
+This can lead to a chain reaction where a series of orbs causes the player to be unable to pray, and get killed quickly.
+After Sotetseg’s primary orb attack hits its target, it will split into two orbs, which target other players.
+The orb launched at the primary target will always be red.
+The split orbs will always have 1 red orb and 1 black orb.
+After a while, Sotetseg will fire a large “death ball” at a random player.
+This damage will be split among all players in a 3x3 area centered on the target of the death ball.
+If not dealt with, this ball will instantly kill the player, even at 121 hp.
+At 66% and 33% health, Sotetseg will choose a player and send the party through a maze trial.
+Any projectiles in midair when this happens will be rendered harmless, including death balls.
+The chosen player will be sent to the shadow realm, where they can see the safe route through the maze.
+When they step on the maze, their position will be shown to players in the normal realm.
+All other players will be teleported to the entrance of the room, and have to navigate the safe path of the maze using the help of the player in the shadow realm.
+After players step on the 4th row of the maze, a tornado will begin chasing them, forcing players to complete the maze quickly.
+If a player steps off the safe tiles, they will take large amounts of damage every tick, splashing to nearby players, which can quickly lead to death.
+General Notes
+DPS Ranking: Scythe > Fang > Abyssal tentacle
+Sotetseg can have its defence lowered, but not below 100.
+This is perfectly reached by two DWH specs.
+Players should coordinate spec roles to spread out their special attacks efficiently.
+Strategy
+Before starting the boss, players should call spec roles. The four roles are “12”, “13”, “23”, and “fill”
+Numbered roles use a DWH / BGS spec on the relevant phases, phases being separated by maze intermissions.
+For instance, “12” would spec instantly upon first reaching the boss, and instantly after the first maze.
+These roles should type “0” in chat if their spec misses, and “1” if it hits.
+“Fill” should hold their spec energy and use a spec if a designated person’s spec misses. The goal is to have two successful defence lowering specs per phase.
+Any leftover spec on the third phase can be used for claws/chally.
+Players should spread out onto four corners of Sotetseg, to ensure ample time to react to orbs.
+The WDR tile markers show the four tiles players should stand on.
+Sometimes, players will call a location when they call a spec role, ie “23 NE”. If locations aren’t called, just spread out.
+In 3s, ignore one of these.
+In 5s, one player should stand on the DD tile, and the person on the southern corner should move to the eastern side of the same corner.
+TODO: Image
+Players should always remain in melee range, to maximize the amount of melees and minimize the amount of orbs.
+Praying against the orbs is the most important part of the fight. Pay attention and try to keep a mental note of any orbs flying your way.
+If two orbs look like they’re going to hit you at the same time, pray against the mage orb first.
+If no orbs are midair, pray melee to reduce damage from Sotetseg’s melees.
+When Sotetseg summons a death ball, all players should move to the DD tile on the southern side of Sotetseg to split the damage.
+After the orb has been soaked, players should move back to their corners.
+When a maze occurs, the chosen player must carefully guide the other players across the safe path through the maze.
+First, the chosen player should walk to the starting tile of the maze, and stay there for a second to allow the other players to catch up.
+Then, they should make their way to the 3rd row of the maze, and again wait for a second for the others to catch up.
+Finally, the chosen player should complete the rest of the maze as swiftly as possible without sacrificing accuracy.
+Non-chosen players should click the illuminated tiles as they show up, which will result in successful maze navigation if the chosen player guides properly.
+After Sotetseg dies, make sure you top up on supplies before moving on to Xarpus.
+Sip and drop any remaining ranging potions, and decant less than full potions to optimize inventory usage.
+You should aim to have at least 3 super restores and a stamina potion (if not receiving a potshare).
+Remaining slots should be filled with brews.
+Xarpus
+The Fight
+Xarpus is a 3 phase fight.
+Phase 1 ends when exhumeds stop spawning.
+Phase 2 ends around when Xarpus reaches 33% health and screeches.
+Phase 1: Exhumeds will spawn around the room, and begin to heal Xarpus.
+The healing will be stopped if a player is standing on the exhumed.
+Phase 2: Xarpus will fire poison “splats” at players that linger where the player was, doing damage to players that stand on them.
+These splats also bounce around the room, targeting other players.
+Phase 3: Xarpus will stop spitting acid, and begin staring at quadrants of the room.
+If a player Xarpus is staring at attacks him, he will launch a counterattack.
+The center rows are considered to be in both quadrants.
+Xarpus will never stare at the same quadrant two cycles in a row.
+General Notes
+DPS Ranking:
+0 Defence: Scythe (str gear) > Blowpipe (dragon darts) > Twisted Bow > Scythe (void) > Blowpipe (rune darts) > Abyssal tentacle
+Otherwise: Scythe > Abyssal tentacle > Twisted bow > Blowpipe
+After 3 hammers have landed, BGS is better - getting the boss to 0 defense is the most important part of the fight.
+Any remaining spec energy should be spent on clawing the boss or challying to finish the fight.
+Strategy
+Phase 1: Players should spread out to efficiently cover all areas of the room and stand on exhumeds as much as possible.
+Phase 2: Players should attack the boss while keeping poison splats to the outside of the arena.
+You do not need to use overhead prayers while fighting Xarpus, as he never attacks the player directly.
+Redemption can be helpful to give some healing, however.
+Ranging is easiest - simply stay at the edges of the room and move two tiles when a splat is about to hit your location.
+If meleeing, you should run back two tiles when Xarpus scans your location for targeting.
+The simplest way to do this is to listen for the “spit” sound, run back two tiles, and then attack Xarpus again.
+Phase 3: Players should DPS the boss, making sure to never attack him when he is looking at them.
+Xarpus will stare at each quadrant for 8 ticks, enough for four blowpipe hits, two whips, or a scythe and change.
+Making the best use of scythe at Xarpus is hard, and will be covered in the advanced guide.
+Before moving on to Verzik, make sure that someone takes the dawnbringer from the skeleton near the exit. If nobody picks it up, it will not be usable.
+Verzik (P1)
+The Fight
+If you need a screenshot for Verzik verification to get into mentor raids, take one now! Congratulations!
+Make sure you take an uncropped picture of your client with the Xarpus completion message visible in chat.
+The fight will not start until a player speaks to Verzik and selects “Yes, let’s begin.”
+Verzik will sit on her throne and attack all players with a powerful magic attack.
+This attack can one shot a player at full health if they aren’t praying protect from magic.
+Even with protect from magic, this attack still can hit 68, so care should be taken to keep HP high.
+This magic attack can be completely avoided by standing behind one of the pillars in the room.
+If a player is hiding behind a pillar, the magic attack will instead damage the pillar.
+When a pillar reaches 0 hp, it will collapse, heavily damaging and stunning all players in melee range.
+When Verzik’s shield gets depleted, all remaining pillars in the room will collapse - make sure you are clear of them when transitioning!
+Normal weapons are ineffective against Verzik’s shield, being capped to 10 damage for melee and 3 for magic/ranged.
+The dawnbringer from the previous room can be used to deal heavy damage to Verzik’s shield.
+It has a spec, which costs 35% spec energy and deals a massive amount of damage to the shield.
+This spec always hits and does not care about the player’s gear - speccing in melee gear is equivalent to speccing in mage gear.
+Its basic attack is exempt from the cap mentioned above.
+The dawnbringer can be drop traded between players, so that all players can use their spec on damaging the shield.
+When phase 1 is finished, the dawnbringer will disintegrate.
+General Notes
+A DPS ranking doesn’t really make sense for P1 - weapons are mostly ranked by how many hitsplats they can cause, as each hitsplat is capped to a very low number.
+That said, Scythe > other melee weapons > everything else
+As with all phases of Verzik, P1 cannot have its defence lowered.
+All spec energy should be spent on using the Dawnbringer’s special attack.
+Strategy
+Players should do any necessary preparations before indicating that they are ready by DD’ing on Verzik’s westernmost tile and praying mage.
+Take a moment to collect yourself and prepare for the long fight ahead.
+Drop about half of your supplies somewhere in the room, so that if you die other players can take them.
+Try to drop brews and restores in separate piles.
+Piety is a noticeable damage increase on P1, so use it if you have a comfortable amount of restores.
+The general cycle of this fight involves hiding behind the pillar for Verzik’s attack, running up to do two melee hits, hiding again, and repeating.
+When the fight first begins, players can do four whips or three scythes before running behind the pillar the first time.
+If you don’t feel comfortable running up, just mage from the pillar, doing two hits per cycle.
+Note that this is FAR less damage than meleeing.
+After the first few hits, players should hide behind the northwestern-most pillar.
+If the NW pillar falls, everyone should move to the NE pillar.
+If the NE pillar falls, players should move to the central Eastern pillar.
+If any more pillars fall, the team’s DPS is far too low - work on improvement.
+Standard LFR procedure has the first player in orb order start with the staff, before using their specs and passing it to the second player in orb order, and so on.
+When a player has the staff, they should spec with it instead of the hits they would normally do on Verzik before dropping it for the next person.
+In LFR, the staff will be dropped in the pillar safe spot.
+Dropping the staff in melee distance of Verzik is safer and more efficient, but LFR does not do this - make sure the whole team is using the same strategy.
+This pattern repeats until all players have specced twice, when the last player in orb order drops it for the first player.
+By this point, the first player will almost be ready to do their third spec.
+After the first player specs, they pass the staff to the second player, and repeat until all players have used their third spec.
+This should repeat until the boss is dead.
+This procedure is known as “416 P1” and is not anywhere close to the optimal method, but is nevertheless the commonly used method in WDR LFR channels.
+If you want to deviate from this strategy, communicate with your team to make sure everyone is on the same page.
+Verzik (P2)
+The Fight
+General Notes
+Strategy
+Verzik (P3)
+The Fight
+General Notes
+Strategy
